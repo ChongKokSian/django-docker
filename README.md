@@ -1,1 +1,2 @@
-docker-compose up
+# How to use
+Run `docker-compose up`
